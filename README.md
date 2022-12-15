@@ -19,5 +19,5 @@ Signification of the various parameters can be found in analyze.cpp.
 # Licence
 The ankh library is under Lesser Gnu Public Licence (LGPL).
 
-#Author
+# Author
 Igor Chollet (Laboratoire Analyse Geometrie et Applications / Laboratoire de Chimie Theorique)
