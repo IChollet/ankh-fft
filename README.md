@@ -9,10 +9,12 @@ In the root directory, change the BLAS and FFTW3 paths in ./tests/makefile
 then run
 
 $ cd ./tests
+
 $ make analyze
+
 $ ./analyze 2 4 15 6 5
 
-Signification of the various parameters can be found in analyze.cpp. Other test cases are provided.
+Signification of the various parameters can be found in analyze.cpp.
 
 # Licence
 The ankh library is under Lesser Gnu Public Licence (LGPL).
