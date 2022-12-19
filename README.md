@@ -1,8 +1,8 @@
 ## ANKH
-ankh is a c++ implementation of the ANKH-FFT method. This library aims at efficiently perform energy computation arising in molecular dynamics.
+The ankh-fft code is a c++ implementation of the ANKH-FFT method presented in https://arxiv.org/abs/2212.08284 . This library aims at efficiently perform energy computation arising in molecular dynamics.
 
 # Dependencies
-ankh depends on both BLAS and FFTW3
+The ankh-fft code depends on both BLAS and FFTW3
 
 # Install and test
 In the root directory, change the BLAS and FFTW3 paths in ./tests/makefile
